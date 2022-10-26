@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "amplifyapp-001",
+=======
+  "name": "amplifyapp",
+>>>>>>> 66d6e5b (Initialize project using Create React App)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
